@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-25T05:30:02.119Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="aoudc-mFV89DL5xRlvcj" version="12.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-25T05:31:05.008Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="ofr7pHhFTZJ92_fzg9n0" version="12.9.2" type="github">
   <diagram id="jlg6p4hdJjAZT79-fy-0" name="Page-1">
     <mxGraphModel dx="253" dy="-1719" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="1273" y="3567" width="325" height="214" as="geometry" />
         </mxCell>
         <mxCell id="R3uoQCx4osy4VZ1zZKen-147" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1667" y="3435" width="719" height="531" as="geometry" />
+          <mxGeometry x="1652" y="3435" width="734" height="531" as="geometry" />
         </mxCell>
         <mxCell id="R3uoQCx4osy4VZ1zZKen-104" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;gradientColor=none;strokeColor=#007FFF;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1511" y="4256" width="354" height="419" as="geometry" />
@@ -169,7 +169,7 @@
           <mxGeometry x="1391.5" y="3465" width="67" height="43" as="geometry" />
         </mxCell>
         <mxCell id="R3uoQCx4osy4VZ1zZKen-31" value="&lt;b&gt;模型发布模块&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1255" y="3498" width="75" height="20" as="geometry" />
+          <mxGeometry x="1275" y="3535" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R3uoQCx4osy4VZ1zZKen-56" value="Model&lt;br&gt;version-3" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1375" y="4322" width="74" height="29" as="geometry" />
@@ -301,7 +301,7 @@
         <mxCell id="R3uoQCx4osy4VZ1zZKen-126" value="&lt;b&gt;Svrkit进程&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="2227" y="3648" width="111" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="R3uoQCx4osy4VZ1zZKen-143" value="&lt;b&gt;Client&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="R3uoQCx4osy4VZ1zZKen-143" value="&lt;b&gt;Client&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="2418" y="3648" width="111" height="72" as="geometry" />
         </mxCell>
         <mxCell id="R3uoQCx4osy4VZ1zZKen-127" value="&lt;b&gt;模型文件及meta&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -347,6 +347,9 @@
         </mxCell>
         <mxCell id="R3uoQCx4osy4VZ1zZKen-140" value="&lt;b&gt;DFlow推理引擎&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1826.5" y="3459" width="108" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R3uoQCx4osy4VZ1zZKen-157" value="&lt;b&gt;在线打分模块&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1673.5" y="3405" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
